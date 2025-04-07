@@ -85,7 +85,7 @@ Hover effects on buttons and links to improve user interaction.
 ## Additional Documentation
 
 Fonts Customization: If you'd like to change the fonts, you can modify the <link> tag inside the <head> section in the HTML files.
-Support: If you encounter any issues or need further assistance, feel free to contact us via email: support@Amigos Food.com.
+Support: If you encounter any issues or need further assistance, feel free to contact us via email: foodamigos84@gmail.com
 
 ## Conclusion
 
